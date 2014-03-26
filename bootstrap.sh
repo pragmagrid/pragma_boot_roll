@@ -19,6 +19,8 @@ cd $dir
 yumdownloader --resolve --enablerepo base,update python-setuptools || \
 			fatal_error "unable to download python-setup"
 
+yumdownloader --resolve --enablerepo base,update python-pyasn1 || \
+			fatal_error "unable to download python-pyasn1"
 
 rpm -Uvh *.rpm || fatal_error "unable to install python-setup"
 cd -

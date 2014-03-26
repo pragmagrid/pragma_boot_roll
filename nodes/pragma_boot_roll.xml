@@ -21,6 +21,7 @@
 	<package>rocks-python-boto</package>
 	<package>rocks-python-rsa</package>
 	<package>roll-pragma_boot_roll-usersguide</package>
+	<package>python-pyasn1</package>
 
 
 </kickstart>

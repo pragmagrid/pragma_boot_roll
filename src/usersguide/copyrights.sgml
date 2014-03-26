@@ -1,0 +1,23 @@
+<chapter id="copyrights" xreflabel="Copyrights">
+
+
+<title>Copyrights</title>
+
+<section id="pragma_boot_roll-copyright" xreflabel="pragma_boot_roll">
+<title>Your title here</title>
+
+<para>
+This product includes software developed ...
+</para>
+
+<para>
+The software contained in this distribution is released under the academic
+license agreement which requires to acknowledge the use of the software 
+that results in any published work. 
+</para>
+
+
+</section>
+
+
+</chapter>
